@@ -65,16 +65,16 @@ Proposal Completion (5 point) -
 etiennebrown@gmail.com Switch account
  
 * Indicates required question
-Email *
-Enter Group Number or Name *
-Enter Project Title *
-Enter team members first and last name *
-Enter project description *
-What will be the project about?
-Enter project objective(s). *
-Based on the previous question, Why do you choose this type of project?
-Enter research questions to answer, problem to solve, workflow to enchance, ect. *
-How would you structure your initial questions to start finding answers to your project objective?
+Email etiennebrown@gmail.com, quakujoe@gmail.com, mr.jwilliams93@gmail.com
+Enter Group Number or Name Group 2
+Enter Project Title Counting Cards, but for Equities
+Enter team members first and last name etienne brown, joseph apppiah, joel williams
+Enter project description Utilizing The Efficient Market Hypthesis and the concept of "counting cards" in black jack we are working to simplify the complex statistical success/failure rates of certain bar/candle patterns. The simplification process will assign integer values to each bar/candle which will be summed to identify a buy, sell or hold threshold. 
+What will be the project about? The project will test our hypothesis of simplifying the success/failure rates and identify whether this would be a profitable means of active auto-trading.
+Enter project objective(s). To utilize stock market data and knowdledge learned in this class to investigate means of minimizing human error in active trading.
+Based on the previous question, Why do you choose this type of project? We have a general interest in the general stock market and this presents a unique approach to active trading.
+Enter research questions to answer, problem to solve, workflow to enchance, ect. Is this user friendly? Will our hypothesis be a success? Time frame to complete the project?
+How would you structure your initial questions to start finding answers to your project objective? Where do we collect the stock price data? How do we assign integers to individuals bars/candles? How to and identify a buy, sell, or hold position? How do we calculate and track our profits? What defines a successful auto-trader? What defines a failed auto-trader? Will this work with a variety of equities? Will this work with futures/bonds/Forex/crypto? Will, and how, do we get this to work with in the moment "live data"?
 Enter links or describe datasets to be used. Biggest Roadblock - you cannot have a project with no data to support it.
 
 Suggestion - You need to find data FIRST, then ideate around that.
