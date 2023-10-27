@@ -1,2 +1,2 @@
-# Counting_Cards_but_for_Equities
+# Counting Equities Like Blackjack
 Rice FinTech Group Project No. 1
