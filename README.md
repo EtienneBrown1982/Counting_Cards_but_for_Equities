@@ -49,6 +49,22 @@ The concept of counting cards can be applied to that of price action trading.
 
 Review of the results returned identify that our simplification process of price action can be used to potentially profitably trade equities.
 
+![AAPL Profits](Resources/Images/portfolio_size(AAPL).png)
+
+Our Auto-Trader over the course of four (4) years when trading AAPL collects total profits of $26212.19 a 262.1219% gain from $10,000 initial capital.
+
+![AAPL Profits](Resources/Images/comparative(AAPL).png)
+
+When comparing the profits from our active Auto_Trader versus a simple buy and hold strategy, comparative plots identify that our Auto-Trader is able to produce profits greater than simply buying and holding. There are two clear periods of time when AAPL was in a downturn and our Auto-Trader was able to identify and sell positions before losses were too great.
+
+![AAPL Profits](Resources/Images/comparative(QQQ).png)
+
+Another comparison was performed against the QQQ, again outperforming the buy and hold strategy.
+
+![AAPL Profits](Resources/Images/card_count_overtime_scatter(AAPL).png)
+
+Review of a scatter plot of the card count (buy/sell indicator) reveals that the algorithm spends most of its time analyzing bullish patterns (> 0) than bearish patterns (< 0). This is in line with general market function over time, in that given a large enough time scale general markets (S&P500, Nasdaq, etc.) trend upwards.
+
 Next steps would be in incorporate additional logic statements identifying further bullish/bearish candlestick patterns.
 
 We would additionally want to analyze various equities over, various buy/sell thresholds, and test whether our hypothesis is statistically significant in producing favorable results.
