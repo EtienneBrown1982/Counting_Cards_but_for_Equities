@@ -2,8 +2,6 @@
 
 <img src="/Resources/Images/Counting_cards.png"  width="500" height="300">
 
-#![Decorative image.](Resources/Images/Counting_cards.png)
-
 ## Background
 
 **Automated trading** (Auto-Trader) is a method of trading that utilizes algorithms to execute entries and exits automatically. This process can be viewed as beneficial as a successful algorithm will execute trades under very strict and well defined rules all while eliminating the emotional factor that can be involved with taking losses and/or profits on a trade.
