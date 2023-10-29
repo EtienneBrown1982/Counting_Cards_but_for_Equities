@@ -1,16 +1,18 @@
 # Project No. 1: Counting Cards but for Equities
 
-![Decorative image.](Resources/Images/Counting_cards.png)
+<img src="/Resources/Images/Counting_cards.png"  width="500" height="300">
+
+#![Decorative image.](Resources/Images/Counting_cards.png)
 
 ## Background
 
 **Automated trading** (Auto-Trader) is a method of trading that utilizes algorithms to execute entries and exits automatically. This process can be viewed as beneficial as a successful algorithm will execute trades under very strict and well defined rules all while eliminating the emotional factor that can be involved with taking losses and/or profits on a trade.
 
-Algorithms used for Auto-Trading can be incredibly complex, requiring huge computational power to analyze all of the variables and statistical correlations that are taking place throughout the live analysis of data pouring into the system. Further, directed predictive algorithms utilizing company fundamentals, global political states, and global economic finance set a tone ---
+Algorithms used for Auto-Trading can be incredibly complex, requiring huge computational power to analyze all of the variables and statistical correlations that are taking place throughout the live analysis of data pouring into the system. Further, directed predictive algorithms utilizing company fundamentals, global political states, and global economic finance set a tone for only the mathematical geniuses of the world to understand.
 
-In the case of our project, we have decided to simplify calculations and our algorithm. We have established a methodology of reading price action revolving around the Efficient Market Hypothesis (EMH), in that the stock market price in the moment reflects all of the news, data, company information, economic status that would impact the stock price at the given moment. The EMH states that stocks always trade at their fair value on exchanges, making it impossible for investors to purchase undervalued stocks or sell stocks for inflated prices.[1]
+In the case of our project, we have decided to simplify calculations and our algorithm. We have established a methodology of reading price action revolving around the Efficient Market Hypothesis (EMH), in that the stock market price in the moment reflects all of the news, data, company information, economic status that would impact the stock price at the given moment. The EMH states that stocks always trade at their fair value on exchanges, making it impossible for investors to purchase undervalued stocks or sell stocks for inflated prices.[^1]
 
-Price Action Trading - "In simple terms, price action trading is a technique that allows a trader to read the market and make subjective trading decisions based on recent and actual price movements..."[2] We are also incorporating, for now, rudimentary technical analysis[3,4].
+Price Action Trading - "In simple terms, price action trading is a technique that allows a trader to read the market and make subjective trading decisions based on recent and actual price movements..."[^2] We are also incorporating, for now, rudimentary technical analysis[^3][^4].
 
 In review of methods to utilize the EMH we took the concept of counting cards in black jack and apply that to price action trading methods. This process, in its' essence, simplifies complex predictive probabilities into simple integers - one (1), zero (0), and negative 1 (-1), etc.
 
