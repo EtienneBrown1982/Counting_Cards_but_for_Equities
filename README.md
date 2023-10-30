@@ -39,7 +39,9 @@ The concept of counting cards can be applied to that of price action trading.
 
 ## Files
 
-* 
+* [Resources Folder](Resources)
+* [Project Guidelines](Resources/Project_guidelines/)
+* [Unused Reference Files and Unused Code](ref_unused)
 
 ## Visuals
 
